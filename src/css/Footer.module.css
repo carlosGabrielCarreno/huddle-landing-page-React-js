@@ -1,0 +1,16 @@
+.facebook,
+.twitter,
+.instagram {
+  width: 1.2rem;
+  height: 1.2rem;
+  padding: 0.6rem;
+  border: 1px solid #fff;
+  border-radius: 2rem;
+  margin: 0.4rem;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

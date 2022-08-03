@@ -1,0 +1,19 @@
+.header {
+  padding: 1rem;
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.logoCompany {
+  width: 9.5rem;
+  height: 2.5rem;
+}
+
+.mockups {
+  width: 20.2rem;
+  height: 14.8rem;
+}
