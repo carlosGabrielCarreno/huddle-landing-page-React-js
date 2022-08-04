@@ -1,5 +1,5 @@
 .header {
-  padding: 1rem;
+  /* padding: 1rem; */
   width: 100vw;
   height: 50vh;
   display: flex;
@@ -11,6 +11,11 @@
 .logoCompany {
   width: 9.5rem;
   height: 2.5rem;
+}
+
+@media (min-width: 570px) {
+  .logoCompany {
+  }
 }
 
 .mockups {

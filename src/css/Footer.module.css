@@ -11,6 +11,8 @@
 
 .footer {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
+  /* border: solid; */
+  padding: 1rem;
 }
